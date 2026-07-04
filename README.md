@@ -3,7 +3,7 @@
 
 As someone who enjoys building thoughtful digital experiences that combine clean design with powerful functionality, I m an AI/ML student who's constantly exploring new technologies, refining my skills and turning ideas into projects that challenge me as a developer.
 
-This is a modern developer portfolio built with react showcasing my porjects, skills and journey as an AI & ML student.
+This is a modern developer portfolio built with react showcasing my projects, skills, ambition and journey as an AI & ML student.
 
 ## Built With
 - React
