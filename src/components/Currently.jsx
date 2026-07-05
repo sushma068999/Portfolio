@@ -3,14 +3,14 @@ export function Currently() {
 const cards = [
 {
 label:"NOW PLAYING",
-title:"A Sky Full of Stars",
-subtitle:"By Coldplay",
+title:"Slow Dancing In The Dark",
+subtitle:"By Joji",
 icon:"/vinyl.png",
 },
 {
 label:"READING",
-title:"Atomic Habits",
-subtitle:"James Clear",
+title:"Mice",
+subtitle:"Gordon Reece",
 icon:"/book.png",
 },
 {
