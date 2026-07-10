@@ -19,4 +19,4 @@ npm run dev
 
 <hr>
 
-This portfolio will contnie to evolve as I make more projects and contnue my journey as a developer.
+This portfolio will continue to evolve as I make more projects and continue my journey as a developer.
